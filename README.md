@@ -103,7 +103,7 @@ kore-coffee/
 
 | Signature Drink | Menu Section |
 | :---: | :---: |
-| <img src="public/tiramisu_latte_hero.png" alt="Signature Drink" width="400" /> | <img src="public/menu.png" alt="Menu" width="400" /> |
+| <img src="public/hero/tiramisu_latte_calm.png" alt="Signature Drink" width="400" /> | <img src="public/menu.png" alt="Menu" width="400" /> |
 
 ---
 
