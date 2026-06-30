@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.svg" alt="Kore Coffee Logo" width="120" height="120" />
+  <img src="public/kore%20coffee%20logo.png" alt="Kore Coffee Logo" width="120" />
   
   # Kore Coffee ☕
   
@@ -10,7 +10,7 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![GSAP](https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://gsap.com/)
 
-  [View Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+  [View Live Demo](https://kore-coffee-website.vercel.app/) · [Report Bug](https://github.com/neelpatel2501/Kore-Coffee-Website/issues) · [Request Feature](https://github.com/neelpatel2501/Kore-Coffee-Website/issues)
 </div>
 
 <br />
@@ -59,7 +59,7 @@ Ensure you have Node.js and pnpm installed:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/Kore-Coffee-Website.git
+   git clone https://github.com/neelpatel2501/Kore-Coffee-Website.git
    cd Kore-Coffee-Website
    ```
 
@@ -101,11 +101,9 @@ kore-coffee/
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here)*
-
-| Hero Section | Menu Section |
+| Signature Drink | Menu Section |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Hero+Section" alt="Hero" /> | <img src="https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Menu+Section" alt="Menu" /> |
+| <img src="public/tiramisu_latte_hero.png" alt="Signature Drink" width="400" /> | <img src="public/menu.png" alt="Menu" width="400" /> |
 
 ---
 
